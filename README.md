@@ -16,8 +16,7 @@ This study explores a **latent class model** designed for mixed-type variables, 
 #LatentClassAnalysis #MixtureModel #Clustering #TextMining  
 
 ## 🔧 Tools & Technologies  
-- R (for statistical modeling)  
-- Python (for text mining applications)  
+- R (for statistical modeling and text mining applications)  
 - LaTeX (for document preparation)  
 
 ## 📫 Contact  
