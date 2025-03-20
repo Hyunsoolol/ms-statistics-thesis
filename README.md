@@ -9,7 +9,7 @@ This study explores a **latent class model** designed for mixed-type variables, 
 
 ## 📂 Contents  
 - 📜 **Thesis Paper (PDF)**  
-- 📊 **Code Implementation (R/Python)**  
+- 📊 **Code Implementation (R)**  
 - 📁 **Example Datasets**  
 
 ## 🏷️ Keywords  
